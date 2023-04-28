@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "266718143409",
+    "project_id": "chat-app-bed65",
+    "storage_bucket": "chat-app-bed65.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266718143409:android:d70fea6c0e686c9790d390",
+        "android_client_info": {
+          "package_name": "com.example.authchatpage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266718143409-ld39u9rodtiidiruc7e06585pievpbpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqB_h7NBJOh9zpQiNzvcSZacZaigw6P8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266718143409-ld39u9rodtiidiruc7e06585pievpbpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:266718143409:android:9c19bc13ecfa1d6190d390",
+        "android_client_info": {
+          "package_name": "com.example.trynotifs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "266718143409-ld39u9rodtiidiruc7e06585pievpbpo.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBqB_h7NBJOh9zpQiNzvcSZacZaigw6P8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "266718143409-ld39u9rodtiidiruc7e06585pievpbpo.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
